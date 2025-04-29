@@ -1,0 +1,18 @@
+/* src/pages/Scripts.css */
+.scripts-section {
+  padding: 60px 20px;
+  background-color: #fff;
+}
+
+.scripts-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #111;
+}
+
+.scripts-grid {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
