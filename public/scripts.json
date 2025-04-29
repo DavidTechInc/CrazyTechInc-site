@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bot WhatsApp Auto-Reply",
+    "description": "Un bot qui répond automatiquement aux messages sur WhatsApp.",
+    "link": "https://www.mediafire.com/file/xxxxxxx",
+    "downloads": 320
+  },
+  {
+    "name": "Bot WhatsApp Anti-Spam",
+    "description": "Script pour détecter et bloquer les spammeurs dans les groupes.",
+    "link": "https://www.mediafire.com/file/yyyyyyy",
+    "downloads": 210
+  },
+  {
+    "name": "Bot WhatsApp Welcome",
+    "description": "Souhaite la bienvenue aux nouveaux membres d'un groupe.",
+    "link": "https://www.mediafire.com/file/zzzzzzz",
+    "downloads": 450
+  }
+]
